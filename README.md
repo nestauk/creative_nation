@@ -5,7 +5,7 @@ creative_nation
 
 A repo with analysis for the Creative Nation project. Have a look at the notebooks folder to see what we have done in the project. We plan to update it with all the data we have used and links to our metadata to make the whole project completely reproducible. Bear with us!
 
-You can find the report here [https://www.nesta.org.uk/publications/creative-nation](here) and get more information about the data [https://www.nesta.org.uk/blog/creative-nation-data](here). 
+You can find the report [here] (https://www.nesta.org.uk/publications/creative-nation) and get more information about the data [here] (https://www.nesta.org.uk/blog/creative-nation-data). 
 
 
 Project Organization
