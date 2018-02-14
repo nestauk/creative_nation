@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-creative_nation
+# creative_nation
 ==============================
 
 A repo with analysis for the Creative Nation project. Have a look at the notebooks folder to see what we have done in the project. We plan to update it with all the data we have used and links to our metadata to make the whole project completely reproducible. Bear with us!
