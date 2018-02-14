@@ -58,10 +58,4 @@ Project Organization
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 =======
-# creative_nation
-Code for data analysis in the Creative Nation project
->>>>>>> 1f6832a2386938f696ef1cee961f92026c8da134
-=======
-# creative_nation
-Code for data analysis in the Creative Nation project
->>>>>>> 1f6832a2386938f696ef1cee961f92026c8da134
+
